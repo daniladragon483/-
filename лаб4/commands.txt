@@ -1,0 +1,4 @@
+ADD 2026.06.01;London;18.5;green
+ADD 2026.06.02;Paris;22.0;yellow
+REM value < 20.0
+SAVE result_lab4.txt
